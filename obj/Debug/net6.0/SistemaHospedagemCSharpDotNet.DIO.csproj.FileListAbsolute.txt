@@ -1,0 +1,15 @@
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\bin\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.exe
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\bin\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.deps.json
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\bin\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.runtimeconfig.json
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\bin\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\bin\Debug\net6.0\ref\SistemaHospedagemCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\bin\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.pdb
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.csproj.AssemblyReference.cache
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.AssemblyInfoInputs.cache
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.AssemblyInfo.cs
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.csproj.CoreCompileInputs.cache
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\ref\SistemaHospedagemCSharpDotNet.DIO.dll
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.pdb
+C:\Users\Thieg\Documents\DIO\SistemaHospedagemCSharpDotNet.DIO\obj\Debug\net6.0\SistemaHospedagemCSharpDotNet.DIO.genruntimeconfig.cache
